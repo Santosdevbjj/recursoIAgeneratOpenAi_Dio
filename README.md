@@ -1,4 +1,4 @@
-## Bootcamp XP Inc. - Cloud com Inteligência Artificial.
+## Bootcamp XP Inc. - Cloud com Inteligência Artificial, ministrado pela DIO.
 
 ![Screenshot_20250531-131904](https://github.com/user-attachments/assets/089cd34f-e4ee-492f-9a6f-3e064c36a52c)
 
