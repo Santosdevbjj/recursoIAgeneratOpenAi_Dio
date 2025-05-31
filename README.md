@@ -26,8 +26,28 @@ Documentar processos técnicos de forma clara e estruturada;
 Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.  
 
 
+## O repositório é composto pelos seguintes arquivos.
 
 
+**Readme.md:** - Descrição geral do desafio.
+
+
+**arqTransformer.md:** - Arquitetura Transformer. 
+
+
+**copilot_funcionali.md:** - Funcionalidades do Copilot e das ferramentas da OpenAI
+
+
+**prinAplicTransfor.md:**- Principais aplicações do Transformer.
+
+
+**recCriAssistIA.md:** - Recursos de Criação Assistida por Inteligência Artificial.
+
+
+**redNeuConvComp.md:** - Redes Neurais Convulacionais em Visão Computacional.
+
+
+**visaoComputacio.md:** - Visão Computacional.
 
 
  
