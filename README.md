@@ -1,4 +1,4 @@
-# 🧠 IA Generativa na Prática | OpenAI, Copilot e Arquitetura Transformer
+#  IA Generativa na Prática | OpenAI, Copilot e Arquitetura Transformer
 
 ![Screenshot](https://github.com/user-attachments/assets/089cd34f-e4ee-492f-9a6f-3e064c36a52c)
 
@@ -30,7 +30,7 @@ Isso gera um gap crítico:
 
 ---
 
-## 🧠 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Transformar conhecimento disperso sobre IA em um repositório estruturado que:
 
@@ -98,7 +98,7 @@ Este projeto conecta:
 
 ---
 
-## 🧠 Insights Técnicos
+##  Insights Técnicos
 
 ### 🔹 Transformer como base da IA moderna
 - Processamento paralelo
@@ -144,7 +144,7 @@ Este projeto conecta:
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 - IA não é apenas ferramenta — é arquitetura
 - Prompt engineering é uma habilidade estratégica
