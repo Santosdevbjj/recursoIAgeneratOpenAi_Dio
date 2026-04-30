@@ -160,12 +160,6 @@ Este projeto conecta:
 - Explorar IA em contexto de negócio (ROI, eficiência)
 - Construir pipelines inteligentes com dados reais
 
----
-
-## 📬 Contato
-
-[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)
-[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
 
 
 ---
@@ -182,5 +176,17 @@ Ele demonstra não apenas conhecimento em IA generativa, mas a capacidade de:
 
 Mais do que aprender IA, o objetivo aqui é **entender como aplicá-la no mundo real**. 
 
+
+---
+
+
+## 📬 Contato
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
+
+
+
+---
 
 
